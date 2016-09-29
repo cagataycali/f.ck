@@ -1,0 +1,26 @@
+{
+  "name": "f.ck",
+  "version": "1.0.0",
+  "description": "Brain fuck programmatic api",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cagataycali/f.ck.git"
+  },
+  "keywords": [
+    "Brainfuck",
+    "programmatical",
+    "api"
+  ],
+  "author": "Çağatay ÇALI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cagataycali/f.ck/issues"
+  },
+  "homepage": "https://github.com/cagataycali/f.ck#readme"
+}
