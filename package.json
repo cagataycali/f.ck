@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "Brain fuck programmatic api",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "async": "^2.0.1",
+    "node-brainfuck": "0.0.2"
+  },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
