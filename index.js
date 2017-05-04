@@ -1,8 +1,7 @@
 var bf = require('node-brainfuck');
-var async = require('async');
 
-module.exports = function(data) {
-  return new Promise(function(resolve, reject) {
+module.exports = (data) => {
+  return new Promise((resolve, reject) => {
     resolve(bf(data))
   });
 }
