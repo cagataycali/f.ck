@@ -1,7 +1,8 @@
 # Install
 
+In terminal,
 ```bash
-npm i --save f.ck
+$>_ npm i --save f.ck
 ```
 
 # Usage
