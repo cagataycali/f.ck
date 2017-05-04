@@ -1,4 +1,4 @@
-var bf = require('node-brainfuck');
+const bf = require('node-brainfuck')
 
 module.exports = (data) => {
   return new Promise((resolve, reject) => {
