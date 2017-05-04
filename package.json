@@ -1,6 +1,6 @@
 {
   "name": "f.ck",
-  "version": "1.5.4",
+  "version": "1.5.5",
   "description": "Brain fuck programmatic api",
   "main": "index.js",
   "dependencies": {
