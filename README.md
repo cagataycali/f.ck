@@ -11,6 +11,6 @@ $>_ npm i --save f.ck
 var f = require('f.ck');
 
 f('++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.')
-  .then((value) => {console.log(value);})
-  .catch((err) => {console.log(err);})
+  .then(value => console.log(value))
+  .catch(err => console.log(err))
 ```
