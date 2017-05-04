@@ -8,7 +8,7 @@ $>_ npm i --save f.ck
 # Usage
 
 ```javascript
-var f = require('f.ck');
+const f = require('f.ck');
 
 f('++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.')
   .then(value => console.log(value))
